@@ -5,4 +5,4 @@ You'll need these addons as well: ** PLEASE DONT USE MY AURAS WITHOUT THEM ***
 - SharedMedia
 - SharedMedia Extended
 
-- This is a test /Arvid 2024
+- This is a test /Arvid 2024-01-01
